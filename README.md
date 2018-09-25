@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets
 
 ## from Forbes Article | Added: 09/24/18
 #### https://www.forbes.com/sites/bernardmarr/2018/02/26/big-data-and-ai-30-amazing-and-free-public-data-sources-for-2018/#673bf5905f8a
----
+
 https://data.worldbank.org/
 ---
 https://www.imf.org/en/Data
