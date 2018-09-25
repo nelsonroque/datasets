@@ -1,7 +1,5 @@
 # Repository of datasets for the hungry data scientist.
 
----
-
 ## Excellent, Dynamic Source of New Content | Added: 09/24/18
 
 https://www.kaggle.com/datasets
