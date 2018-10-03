@@ -1,5 +1,13 @@
 # Repository of datasets for the hungry data scientist.
 
+
+---
+## Various saliency benchmarking datasets | Added: 10/3/18
+
+http://saliency.mit.edu/datasets.html
+
+---
+
 ## Excellent, Dynamic Source of New Content | Added: 09/24/18
 
 https://www.kaggle.com/datasets
