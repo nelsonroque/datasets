@@ -2,6 +2,12 @@
 
 ---
 
+## TidyTuesday Datasets | 10/17/18
+
+https://github.com/rfordatascience/tidytuesday/blob/master/README.md
+
+---
+
 ## Government Data | 10/11/18
 https://www.data.gov/
 
