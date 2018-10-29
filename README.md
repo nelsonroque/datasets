@@ -2,6 +2,12 @@
 
 ---
 
+## 50 Machine-Learning Friendly Datasets | 10/29/18
+
+https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279
+
+---
+
 ## TidyTuesday Datasets | 10/17/18
 
 https://github.com/rfordatascience/tidytuesday/blob/master/README.md
