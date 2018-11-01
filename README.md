@@ -2,6 +2,12 @@
 
 ---
 
+## Medium Stories + Claps | 11/1/18
+
+https://www.kaggle.com/harrisonjansma/medium-stories
+
+---
+
 ## Government Data | 10/11/18
 https://www.data.gov/
 
