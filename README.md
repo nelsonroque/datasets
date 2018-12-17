@@ -1,5 +1,9 @@
 # Repository of datasets for the hungry data scientist.
 
+## Crowd Data | 12/17/18
+
+https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data
+
 ---
 
 ## 50 Machine-Learning Friendly Datasets | 10/29/18
