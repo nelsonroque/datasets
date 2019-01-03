@@ -1,5 +1,21 @@
 # Repository of datasets for the hungry data scientist.
 
+## Crowd Data | 12/17/18
+
+https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data
+
+---
+
+## 50 Machine-Learning Friendly Datasets | 10/29/18
+
+https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279
+
+---
+
+## TidyTuesday Datasets | 10/17/18
+
+https://github.com/rfordatascience/tidytuesday/blob/master/README.md
+
 ---
 
 ## Medium Stories + Claps | 11/1/18
